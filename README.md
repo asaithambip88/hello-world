@@ -1,3 +1,3 @@
 # hello-world
-My Sample Git Hup project
 My first repository
+This is sample program for node JS modules export
